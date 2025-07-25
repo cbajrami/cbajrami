@@ -5,8 +5,6 @@
 
 <h3 align="center">Some of my hobbies are playing soccer, learning how to make music, and socializing with friends and family.</h3>
 
-<h3 align="center">I am a rising senior and am on track to receive my diploma in 2026.</h3>
-
 <h3 align="center">I look forward to attending college, where I am interested in pursuing an engineering or biochemistry degree. However, I am exploring my options, and tech is also something I am looking at.</h3>
 
 <h3 align="center">Although I do not have much experience in tech, I am ready to learn more.</h3
